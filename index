@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html Lang="pt-BR">
+	<head>
+		<meta charset="UTF-8">
+		<title>Currículo de Samantha Meduneckas</title>
+        	<link rel="stylesheet" href="style.css">
+		<script type="text/javascript" src="main.js"> </script>
+	</head>
+	
+	<body>
+		
+		<img src= "./images/perfil.png" alt="Foto de Perfil"
+			width="200" height="200">
+		
+			
+		<h1> Samantha Meduneckas</h1>
+		<hr>
+		
+		<h2 class="subtitle">Resumo profissional:</h2>
+		<p> Sou estudante de Engenharia de Software, atualmente com estudo voltado para a área de Front-end em Javascript e em outras áreas correlacionadas,
+            no entanto estou disposta a atuar em outras áreas. Me considero paciente e proativa e tenho como principal objetivo aprender novos conhecimentos
+            e técnicas voltadas para o mercado de trabalho.</p>
+		
+		<hr>
+		
+		<h2 class="subtitle">Formação Acadêmica</h2>
+		<p>Estudante de Engenharia de Software no 3 semestre na <a href=" https://www.pitagoras.com.br/ " target="_blank">Faculdade Pitágoras </a>
+		
+		<hr>
+		
+		<h2 class="post_title"><a href="certificações.html" target="_blank">Minhas certificações</a> </h2>
+		
+		<hr>
+		
+		<h2 class="subtitle">Experiência Profissional</h2>
+		<ol>
+			<li> Comunidade educativa Pomar.(Fev/22-Dez/22)
+				<ul>
+					<li> Professora de AEE (atendimento educacional especializado).</li>
+					<li> Professora de Apoio.</li>
+					
+				</ul>
+			</li>
+			
+		</ol>
+		
+		<hr>
+		
+		<h2 class="post_contact">Contato
+		<address>
+            <p><a href="https://www.linkedin.com/in/samantha-meduneckas/" target="_blank"><img src="./images/linkedin.png" width="40" height="40"> </a>samantha-meduneckas</p>
+            <p><a href="https://api.whatsapp.com/send?phone=5534999696041" target="_blank"><img src="./images/whatsapp.png" width="40" height="40"> (34) 99969-6041 </a></p>
+            <p><a href="mailto:samanthameduneckas@gmail.com" target="_blank"><img src="./images/email.png" width="40" height="40"> samanthameduneckas@gmail.com </a></p>
+		</address>
+        </h2>
+		
+	</body>
+</html>
